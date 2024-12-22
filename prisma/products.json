@@ -1,0 +1,93 @@
+
+   [
+    {
+      "name": "Dining Table",
+      "price": 2000,
+      "company": "CAREASA",
+      "featured": true,
+      "rating": 1.5,
+      "createdAt": "2024-12-21T09:54:15.772Z",
+      "updatedAt": "2024-12-21T09:54:15.772Z"
+    },
+    {
+      "name": "Office Chair",
+      "price": 1500,
+      "company": "IKEA",
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-12-20T08:54:15.772Z",
+      "updatedAt": "2024-12-20T08:54:15.772Z"
+    },
+    {
+      "name": "Sofa Set",
+      "price": 3000,
+      "company": "MARCOSE",
+      "featured": true,
+      "rating": 3,
+      "createdAt": "2024-12-19T07:54:15.772Z",
+      "updatedAt": "2024-12-19T07:54:15.772Z"
+    },
+    {
+      "name": "Coffee Table",
+      "price": 1000,
+      "company": "LIDDY",
+      "featured": false,
+      "rating": 5,
+      "createdAt": "2024-12-18T06:54:15.772Z",
+      "updatedAt": "2024-12-18T06:54:15.772Z"
+    },
+    {
+      "name": "Bookshelf",
+      "price": 500,
+      "company": "CAREASA",
+      "featured": false,
+      "rating": 2.5,
+      "createdAt": "2024-12-17T05:54:15.772Z",
+      "updatedAt": "2024-12-17T05:54:15.772Z"
+    },
+    {
+      "name": "Wardrobe",
+      "price": 2500,
+      "company": "IKEA",
+      "featured": true,
+      "rating": 3.5,
+      "createdAt": "2024-12-16T04:54:15.772Z",
+      "updatedAt": "2024-12-16T04:54:15.772Z"
+    },
+    {
+      "name": "TV Stand",
+      "price": 4000,
+      "company": "MARCOSE",
+      "featured": false,
+      "rating": 2,
+      "createdAt": "2024-12-15T03:54:15.772Z",
+      "updatedAt": "2024-12-15T03:54:15.772Z"
+    },
+    {
+      "name": "Bed Frame",
+      "price": 3500,
+      "company": "LIDDY",
+      "featured": true,
+      "rating": 4.5,
+      "createdAt": "2024-12-14T02:54:15.772Z",
+      "updatedAt": "2024-12-14T02:54:15.772Z"
+    },
+    {
+      "name": "Recliner Chair",
+      "price": 1800,
+      "company": "CAREASA",
+      "featured": false,
+      "rating": 1,
+      "createdAt": "2024-12-13T01:54:15.772Z",
+      "updatedAt": "2024-12-13T01:54:15.772Z"
+    },
+    {
+      "name": "Dressing Table",
+      "price": 600,
+      "company": "IKEA",
+      "featured": true,
+      "rating": 3.8,
+      "createdAt": "2024-12-12T00:54:15.772Z",
+      "updatedAt": "2024-12-12T00:54:15.772Z"
+    }
+  ]
